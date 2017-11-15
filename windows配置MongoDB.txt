@@ -1,0 +1,3 @@
+mongod --config D:\MongoDB\mongo.config --install --serviceName "MongoDB"
+配置服务启动项:  .\mongod --dbpath "D:\MongoDB\data\db" --logpath "D:\MongoDB\data\log\MongoDB.log" --install --serviceName "MongoDB"
+删除服务启动项:  .\mongod --dbpath "D:\MongoDB\data\db" --logpath "D:\MongoDB\data\log\MongoDB.log" --remove --serviceName "MongoDB"
