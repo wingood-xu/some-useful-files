@@ -1,0 +1,98 @@
+{
+	"178.62.105.138" : {
+		"totalUploadBytes" : 20517,
+		"totalDownloadBytes" : 196541
+	},
+	"us.san.sber.xyz" : {
+		"totalUploadBytes" : 66309,
+		"totalDownloadBytes" : 22145967
+	},
+	"104.128.68.60" : {
+		"totalUploadBytes" : 502032,
+		"totalDownloadBytes" : 159872832
+	},
+	"107.172.145.141" : {
+		"totalUploadBytes" : 342212,
+		"totalDownloadBytes" : 35047884
+	},
+	"47.89.242.215" : {
+		"totalUploadBytes" : 8047218,
+		"totalDownloadBytes" : 1429901362
+	},
+	"47.90.49.67" : {
+		"totalUploadBytes" : 4694642,
+		"totalDownloadBytes" : 787944658
+	},
+	"153.125.234.210" : {
+		"totalUploadBytes" : 785,
+		"totalDownloadBytes" : 167
+	},
+	"45.32.29.218" : {
+		"totalUploadBytes" : 391032,
+		"totalDownloadBytes" : 32412835
+	},
+	"ssr.wulabing.com" : {
+		"totalUploadBytes" : 9507,
+		"totalDownloadBytes" : 14347
+	},
+	"47.88.63.246" : {
+		"totalUploadBytes" : 71256,
+		"totalDownloadBytes" : 49904869
+	},
+	"47.90.48.228" : {
+		"totalUploadBytes" : 5340390,
+		"totalDownloadBytes" : 99634747
+	},
+	"172.93.47.114" : {
+		"totalUploadBytes" : 14926,
+		"totalDownloadBytes" : 19574
+	},
+	"47.91.145.179" : {
+		"totalUploadBytes" : 17039818,
+		"totalDownloadBytes" : 5330909766
+	},
+	"47.88.228.120" : {
+		"totalUploadBytes" : 6136287,
+		"totalDownloadBytes" : 1656255820
+	},
+	"47.91.149.80" : {
+		"totalUploadBytes" : 4953,
+		"totalDownloadBytes" : 241138
+	},
+	"us2.ae86.pub" : {
+		"totalUploadBytes" : 60555,
+		"totalDownloadBytes" : 470490
+	},
+	"us1.ae86.pub" : {
+		"totalUploadBytes" : 95543,
+		"totalDownloadBytes" : 2248801
+	},
+	"hk2.ae86.pub" : {
+		"totalUploadBytes" : 755,
+		"totalDownloadBytes" : 890
+	},
+	"sg2.ae86.pub" : {
+		"totalUploadBytes" : 2716835,
+		"totalDownloadBytes" : 143937606
+	},
+	"sg3.ae86.pub" : {
+		"totalUploadBytes" : 3496263,
+		"totalDownloadBytes" : 157022100
+	},
+	"sg1.ae86.pub" : {
+		"totalUploadBytes" : 533,
+		"totalDownloadBytes" : 3622
+	},
+	"os1.ae86.pub" : {
+		"totalUploadBytes" : 135961,
+		"totalDownloadBytes" : 2233074
+	},
+	"os2.ae86.pub" : {
+		"totalUploadBytes" : 919,
+		"totalDownloadBytes" : 5369
+	},
+	"103.225.9.133" : {
+		"totalUploadBytes" : 2005736,
+		"totalDownloadBytes" : 68327129
+	}
+}
