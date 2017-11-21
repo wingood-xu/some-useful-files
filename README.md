@@ -5,3 +5,11 @@
 2. mod_wsgi替换.so文件(查看好多资料有提到导入.so文件,后来发现最近的版本不好使,但是此方法可以解决).
 
 3. SSR app.
+
+4. 本机为部署scrapyd于 2017/11/21 修改D:\Anaconda3\Lib\site-packages\automat\\_methodical.py 文件
+      - 修改内容如下:
+      
+```python
+    # 两处修改
+    @attr.s(frozen=true)==>@attr.s()
+```
