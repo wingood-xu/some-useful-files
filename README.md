@@ -13,3 +13,4 @@
     # 两处修改
     @attr.s(frozen=true)==>@attr.s()
 ```
+5.pip更新所有包命令：pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U
