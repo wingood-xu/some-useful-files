@@ -14,6 +14,7 @@
     @attr.s(frozen=true)==>@attr.s()
 ```
 5.pip更新所有包命令：pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U
+
 6.如果用plotly无法在notebook里面内嵌交互图片的话，可按如下配置(未修改前safari正常显示，Chrome无法显示)：
 ```python
 pip install ipywidgets
